@@ -19,4 +19,4 @@
  
  </body>
  <h2>Week 8 </h2>-
- https://github.com/ganeshkumba/AIML/commit/faf803de3de0412f8a7b19efc29482ce22686f7f
+ https://github.com/ganeshkumba/AIML/blob/main/Week_8.ipynb

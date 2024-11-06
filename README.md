@@ -22,6 +22,7 @@
  https://github.com/ganeshkumba/AIML/blob/main/Week_8.ipynb
 
  <h2>Week 9 </h2>- 
+ https://github.com/ganeshkumba/AIML/blob/main/AIML_LAB_9.ipynb
  
 <h2>Week 10 </h2>
 https://github.com/ganeshkumba/AIML/blob/main/Lab10-KMeans.ipynb
